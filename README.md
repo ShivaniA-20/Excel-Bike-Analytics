@@ -12,4 +12,8 @@ This is an excel dashboard utilizing Pivot Charts to analyze purchasing patterns
 __2.__ __Customer Commute__
 
    Pivot Chart to analyze customer commuting patterns and their impact on bike purchases. The chart plotted the distance from the store (miles) on the X-axis and the number of bikes purchased on the Y-axis. This visualization helped identify the commuting ranges of customers who purchased bikes, providing valuable insights into target customer proximity and purchasing behavior.
+
    
+__3.__ __Customer__ __Age__ __Bracket__  
+
+I designed a Pivot Chart to analyze bike purchases across different age brackets: Adolescents (under 31), Middle-Aged (31-54), and Older Adults (55+). The analysis highlighted that the majority of purchases were made by Middle-Aged individuals, with 383 buyers in this group. In contrast, Adolescents accounted for the least purchases, with only 39 buyers and 71 non-buyers. This project provided clear insights into the age demographics of bike purchasers.
